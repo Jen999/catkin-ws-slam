@@ -1,2 +1,0 @@
-src/ball_chaser:src/my_robot:teleop_twist_keyboard
--DCATKIN_DEVEL_PREFIX=/home/tanlingjen/catkin-ws-slam/devel -DCMAKE_INSTALL_PREFIX=/home/tanlingjen/catkin-ws-slam/install -G Unix Makefiles
