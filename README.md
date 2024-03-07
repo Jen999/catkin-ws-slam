@@ -1,3 +1,5 @@
+### Udacity Robotics Software Engineering Course
+Using RTAB-Map (Real-Time Appearance-Based Mapping) to perform SLAM
 ```
 cd src
 git clone https://github.com/ros-teleop/teleop_twist_keyboard.git
